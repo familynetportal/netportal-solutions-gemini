@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export const metadata = {
   title: "Our Services - Netportal Solutions",
   description: "Comprehensive IT consulting services offered by Netportal Solutions.",
